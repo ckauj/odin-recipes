@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
+
+a {
+    font-size: 14px;
+    color: red;
+    background-color: lightblue;
+}
+
+#title {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#title.home {
+    color: green;
+    background-color: red;
+}
+
+#title.page {
+    color: blue;
+    background-color: lightcoral;
+}
+
+ul.page {
+    background-color: black;
+    color: white;
+}
+
+ol.page {
+    color: red;
+}
+
+ul.home {
+    font-size: 24px;
+}
+
