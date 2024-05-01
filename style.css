@@ -1,2 +1,44 @@
+* {
+    box-sizing: border-box;
+}
 
+body {
+    background-color: #b0c4de;
+}
 
+#title.home {
+    text-align: center;
+    background-color: lightseagreen;
+    padding: 12px;
+    font-size: 48px;
+    width: 400px;
+    margin: 24px auto;
+}
+
+.home.links {
+    font-size: 24px;
+}
+
+.links .first {
+    display: block;
+    text-align: right;
+    background-color: #d3d3d3;
+    width: 800px;
+}
+
+.links .second {
+    display: block;
+    text-align: left;
+    background-color: #e0ffff;
+    width: 800px;
+    margin-left: auto;
+}
+
+.links .third {
+    display: block;
+    text-align: center;
+    background-color: #90ee90;
+    width: 800px;
+    margin: 0 auto;
+
+}
