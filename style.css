@@ -32,6 +32,12 @@ img {
     font-size: 24px;
 }
 
+.first,
+.second,
+.third {
+    padding: 12px;
+}
+
 .links .first {
     display: block;
     text-align: right;
