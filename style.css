@@ -1,18 +1,31 @@
 * {
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     background-color: #b0c4de;
 }
 
+img {
+    height: auto;
+    width: 200px;
+}
+
+#title {
+    font-size: 48px;
+}
+
 #title.home {
     text-align: center;
     background-color: lightseagreen;
     padding: 12px;
-    font-size: 48px;
     width: 400px;
     margin: 24px auto;
+}
+
+#title.page {
+
 }
 
 .home.links {
